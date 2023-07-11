@@ -1,3 +1,0 @@
-Heart Disease Prediction using sklearn machine learning library in Python
-and 
-Heart Disease analysis using Microsoft Power BI
